@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+<mapper namespace="com.classIT.mapper.QuestionMapper">
+
+	<select id="getOne" resultType="com.classIT.domain.QuestionVO">
+		SELECT *
+		FROM question
+		WHERE question_no = #{question_no}
+	</select>
+	
+	<select id="getList" resultType="com.classIT.domain.QuestionVO">
+		SELECT/*+ INDEX_DESC(question idx_question_product_question)*/ *
+		FROM question
+		WHERE product_no = #{product_no}
+	</select>
+	
+	<select id="getListForUser" resultType="com.classIT.domain.QuestionVO">
+		SELECT *
+		FROM question
+		WHERE user_id = #{user_id}
+	</select>	
+	
+	<insert id="insert">
+		<selectKey keyProperty="question_no" order="BEFORE" resultType="long">
+			select seq_question.nextval from dual
+		</selectKey>
+		INSERT INTO question(question_no, product_no, question_title, question_text, user_id)
+		VALUES(#{question_no}, #{product_no}, #{question_title}, #{question_text} ,#{user_id})	
+	</insert>
+	
+	<update id="update">
+		UPDATE question
+		SET question_title = #{question_title}, question_text =#{question_text}
+		WHERE question_no = #{question_no} AND user_id = #{user_id}
+	</update>
+	
+	<delete id="delete">
+		DELETE FROM question WHERE question_no = #{question_no} AND user_id = #{user_id}
+	</delete>
+
+
+	<select id="getListWithPaging" resultType="com.classIT.domain.QuestionVO">
+		<![CDATA[ 
+			SELECT question_no,product_no,question_title,question_text,question_date,user_id,answercnt
+			FROM (
+				SELECT /*+ INDEX_DESC(question idx_question_product_question)*/ rownum rn ,question_no,product_no,question_title,question_text,question_date,user_id,answercnt
+				FROM question
+				WHERE product_no = #{product_no}  AND rownum <= #{cri.pageNum} * #{cri.amount}
+			)
+			WHERE rn > (#{cri.pageNum}-1) * #{cri.amount}
+		]]> 
+		
+	</select>
+	
+	<select id="getCountByProductNo" resultType="int">
+		<![CDATA[ 
+			SELECT /*+ INDEX(question idx_question_product_question)*/ count(question_no)
+			FROM question 
+			WHERE product_no = #{product_no}			
+		]]>
+	</select>
+	
+	<update id="updateAnswerCnt">
+		UPDATE question
+		SET answercnt =  answercnt + #{amount}
+		WHERE question_no = #{question_no}
+	</update>
+	
+
+
+</mapper>
