@@ -1,6 +1,10 @@
-<h1 align='center'> <img src='https://github.com/user-attachments/assets/07cb2a44-7404-46de-a9ba-d309942dcd4f' style='width: 300px; height: 200px;'>&nbsp;</h1>
+<h1 align='center'> <img src='https://github.com/user-attachments/assets/07cb2a44-7404-46de-a9ba-d309942dcd4f'>&nbsp;</h1>
 <h1  align='center'>원 데이 클래스</h1>
 <div align='center'>
+  <h3>
+    🔗 <a href="">AWS 나중에 추가할 예정</a> 사이트 바로가기
+  </h3>
+</div>
 <br/><br/>
 
 
@@ -14,13 +18,13 @@
   
 
 
-## 개요 <a id="chapter1"></a>
+## 🚩 개요 <a id="chapter1"></a>
 - 프로젝트 목표 : 다양한 `API`를 활용한 `스프링` , `마이바티스` 원 데이 클래스 프로젝트
 - 개발기간 : 24/11/25 ~ 24/12/13
 
 
 
-## 기술 스택 <a id="chapter2"></a>
+## 🔧 기술 스택 <a id="chapter2"></a>
 - API : `카카오맵 API` `PortOne API` 
 - Language : `Java(11)` `JavaScript(1.5)`
 - Library & Framework : `Spring(5.2.7)` `Junit(4.12)` `Servlet(3.1.0)` `Spring Security`
@@ -32,7 +36,7 @@
 
   
 
-## 프로젝트 설계, 구현 PPT
+## 👾 프로젝트 설계, 구현 📂 PPT 📂 (ERD, USECASE)
 
 
 
@@ -66,7 +70,7 @@
 </div>            
 </details>
 
-## 핵심 기능 <a id="chapter4"></a>
+## 💻 핵심 기능 <a id="chapter4"></a>
 
 #### 로그인
 - 시큐리티 로그인
@@ -112,7 +116,7 @@
 - 문의 답변완료
 
  
-## 주요기능 실행화면 <a id="chapter5"></a>
+## 🎇 주요기능 실행화면 <a id="chapter5"></a>
 
 
 * **메인 화면**
@@ -120,8 +124,7 @@
     
     ![mainpage](https://github.com/user-attachments/assets/07cb2a44-7404-46de-a9ba-d309942dcd4f)
 
-* **로그인**
-  * 로그인, 회원가입 설명.
+
 
 ## 🌄 개선사항 <a id="chapter6"></a>
 - 카카오, 네이버 등 소셜 로그인 기능
