@@ -1,4 +1,4 @@
-<h1 align='center'> <img src='https://github.com/user-attachments/assets/07cb2a44-7404-46de-a9ba-d309942dcd4f'>&nbsp;</h1>
+<h1 align='center'> <img src='https://github.com/user-attachments/assets/07cb2a44-7404-46de-a9ba-d309942dcd4f' style='width: 300px; height: 200px;'>&nbsp;</h1>
 <h1  align='center'>원 데이 클래스</h1>
 <div align='center'>
 <br/><br/>
@@ -122,7 +122,6 @@
 
 * **로그인**
   * 로그인, 회원가입 설명.
-  * ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/login.gif).
 
 ## 🌄 개선사항 <a id="chapter6"></a>
 - 카카오, 네이버 등 소셜 로그인 기능
