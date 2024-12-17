@@ -119,6 +119,11 @@
     
     ![mainpage](https://github.com/user-attachments/assets/07cb2a44-7404-46de-a9ba-d309942dcd4f)
 
+* **로그인**
+  * 로그인 설명.
+    
+    ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/login.gif).
+
 
 
 ## 개선사항 <a id="chapter6"></a>
