@@ -13,13 +13,13 @@
   
 
 
-## 🚩 개요 <a id="chapter1"></a>
+## 개요 <a id="chapter1"></a>
 - 프로젝트 목표 : 다양한 `API`를 활용한 `스프링` , `마이바티스` 원 데이 클래스 프로젝트
 - 개발기간 : 24/11/25 ~ 24/12/13
 
 
 
-## 🔧 기술 스택 <a id="chapter2"></a>
+## 기술 스택 <a id="chapter2"></a>
 - API : `카카오맵 API` `PortOne API` 
 - Language : `Java(11)` `JavaScript(1.5)`
 - Library & Framework : `Spring(5.2.7)` `Junit(4.12)` `Servlet(3.1.0)` `Spring Security`
@@ -31,7 +31,7 @@
 
   
 
-## 👾 프로젝트 설계, 구현 📂 PPT 📂 (ERD, USECASE)
+## 프로젝트 설계, 구현 PPT(ERD, USECASE)
 
 
 
@@ -111,7 +111,7 @@
 - 문의 답변완료
 
  
-## 🎇 주요기능 실행화면 <a id="chapter5"></a>
+## 주요기능 실행화면 <a id="chapter5"></a>
 
 
 * **메인 화면**
@@ -121,7 +121,7 @@
 
 
 
-## 🌄 개선사항 <a id="chapter6"></a>
+## 개선사항 <a id="chapter6"></a>
 - 카카오, 네이버 등 소셜 로그인 기능
 - 클래스 예약 완료 및 승인/거절 시 확인 메일 발송 기능
 - 관리자의 회원 관리 기능
