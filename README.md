@@ -1,4 +1,4 @@
-<h1 align='center'> <img src='https://github.com/user-attachments/assets/07cb2a44-7404-46de-a9ba-d309942dcd4f' style='width: 300px; height: 200px;'>&nbsp;</h1>
+<h1 align='center'> <img src='https://github.com/user-attachments/assets/07cb2a44-7404-46de-a9ba-d309942dcd4f'>&nbsp;</h1>
 <h1  align='center'>원 데이 클래스</h1>
 <div align='center'>
 <br/><br/>
