@@ -1,10 +1,5 @@
 <h1 align='center'> <img src='https://github.com/user-attachments/assets/07cb2a44-7404-46de-a9ba-d309942dcd4f'>&nbsp;</h1>
 <h1  align='center'>원 데이 클래스</h1>
-<div align='center'>
-  <h3>
-    🔗 <a href="">AWS 나중에 추가할 예정</a> 사이트 바로가기
-  </h3>
-</div>
 <br/><br/>
 
 
