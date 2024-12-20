@@ -199,10 +199,10 @@
 <br><br>
 * **관리자페이지**
 
-    ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/%ED%81%B4%EB%9E%98%EC%8A%A4%EB%93%B1%EB%A1%9D.gif)
+![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/%ED%81%B4%EB%9E%98%EC%8A%A4%EB%93%B1%EB%A1%9D.gif)
   * 관리자로 로그인한 후 클래스 검색 페이지로 이동하면 '클래스 등록하기' 버튼이 활성화됩니다. 필요한 정보를 입력하여 새로운 클래스를 등록할 수 있습니다.<br><br>
 
-    ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396349345-f80404c2-1531-40fc-8e57-7c8e34c18af7.gif)
+![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396349345-f80404c2-1531-40fc-8e57-7c8e34c18af7.gif)
   * 클래스 상세 페이지로 이동하면 클래스의 '수정' 및 '삭제' 버튼이 활성화됩니다. '수정' 버튼을 클릭하면 클래스 수정 페이지에서 필요한 정보를 수정할 수 있으며, '삭제' 버튼을 클릭하면 클래스 삭제 경고창이 나타납니다.<br><br>
 
 ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396363626-e9a7c1da-77fe-49a5-bae5-8596a4e13a45.gif)
