@@ -122,7 +122,7 @@
     ![mainpage](https://github.com/user-attachments/assets/07cb2a44-7404-46de-a9ba-d309942dcd4f)
   * 메인페이지는 로그인, 회원가입, 클래스 추천, 클래스 목록으로 이동하는 버튼으로 구성되어 있습니다.
 
-
+<br><br>
 * **로그인 및 회원가입**
     ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/login.gif)
   * 로그인 및 회원가입 시연.
@@ -130,7 +130,7 @@
 
 * **로그인**
 
-    ![Login]( https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396338413-84282530-06a4-4379-8dd4-acdb723b5d93.gif).
+    ![Login]( https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396338413-84282530-06a4-4379-8dd4-acdb723b5d93.gif)
   * 아이디 또는 비밀번호를 입력하지 않고 로그인 버튼을 클릭할 경우, 미입력된 정보를 입력하라는 메시지가 표시됩니다.    
 
     ![Login]( https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396357669-de45ed1c-93f0-4a2f-aebf-d7195f724967.gif)
@@ -153,7 +153,7 @@
 
 * **클래스 상세페이지**
 
-    ![Login](https://github.com/YeChan-98/OneDayClass/raw/refs/heads/main/gif/detail.gif).
+    ![Login](https://github.com/YeChan-98/OneDayClass/raw/refs/heads/main/gif/detail.gif)
   * 선택된 클래스의 상세 설명과 함께 카카오 지도 API를 사용하여 마커로 장소를 표시하고 있습니다.
 
     ![Login](https://github.com/YeChan-98/OneDayClass/blob/main/gif/396324237-b1929659-c319-4654-be9e-d3fbfcf27e5e.gif)
