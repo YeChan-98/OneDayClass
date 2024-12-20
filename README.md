@@ -115,16 +115,6 @@
       <td><img src="https://github.com/user-attachments/assets/673994bf-157d-47e1-a50d-4c2c9e9ea98d" alt="슬라이드39"></td>
       <td></td>
     </tr>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/d055e657-5ba4-4de5-bfd3-4863eb3de787" alt="슬라이드39"></td>
-      <td><img src="https://github.com/user-attachments/assets/283606c5-c07a-4593-a6b3-f2ca6f14e76d" alt="슬라이드40"></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/ecc18ece-403c-4a85-9abd-a4748b8a7ab3" alt="슬라이드41"></td>
-      <td><img src="https://github.com/user-attachments/assets/6b4c6c90-5069-489b-8add-b00c59297c69" alt="슬라이드42"></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/673994bf-157d-47e1-a50d-4c2c9e9ea98d" alt="슬라이드43"></td>
   </table>
 </div>
 
