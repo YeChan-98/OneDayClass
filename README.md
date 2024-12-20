@@ -155,10 +155,10 @@
 
     ![Login](https://github.com/YeChan-98/OneDayClass/raw/refs/heads/main/gif/detail.gif)
   * 선택된 클래스의 상세 설명과 함께 카카오 지도 API를 사용하여 마커로 장소를 표시하고 있습니다.
-<br>
+
     ![Login](https://github.com/YeChan-98/OneDayClass/blob/main/gif/396324237-b1929659-c319-4654-be9e-d3fbfcf27e5e.gif)
   * 해당 클래스의 후기(리뷰)게시판과 QnA게시판을 페이징 되어 있는 상태로 볼 수 있습니다.
-<br>
+
     ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396324405-b0bec65c-ec81-483e-af78-fe328da01281.gif)
   * 로그인된 회원에게는 문의하기 버튼이 제공됩니다. 버튼을 클릭하면 모달 창을 통해 문의사항을 입력하고 등록할 수 있습니다.
 
