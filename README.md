@@ -132,7 +132,7 @@
 
     ![Login]( https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396338413-84282530-06a4-4379-8dd4-acdb723b5d93.gif)
   * 아이디 또는 비밀번호를 입력하지 않고 로그인 버튼을 클릭할 경우, 미입력된 정보를 입력하라는 메시지가 표시됩니다. <br><br>
-  +
+
     ![Login]( https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396357669-de45ed1c-93f0-4a2f-aebf-d7195f724967.gif)
   * 입력한 회원정보와 일치하는 아이디 찾기 및 비밀번호 초기화 기능을 제공합니다.
 
@@ -154,10 +154,10 @@
 * **클래스 상세페이지**
 
     ![Login](https://github.com/YeChan-98/OneDayClass/raw/refs/heads/main/gif/detail.gif)
-  * 선택된 클래스의 상세 설명과 함께 카카오 지도 API를 사용하여 마커로 장소를 표시하고 있습니다.
+  * 선택된 클래스의 상세 설명과 함께 카카오 지도 API를 사용하여 마커로 장소를 표시하고 있습니다.<br><br>
 
     ![Login](https://github.com/YeChan-98/OneDayClass/blob/main/gif/396324237-b1929659-c319-4654-be9e-d3fbfcf27e5e.gif)
-  * 해당 클래스의 후기(리뷰)게시판과 QnA게시판을 페이징 되어 있는 상태로 볼 수 있습니다.
+  * 해당 클래스의 후기(리뷰)게시판과 QnA게시판을 페이징 되어 있는 상태로 볼 수 있습니다. <br><br>
 
     ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396324405-b0bec65c-ec81-483e-af78-fe328da01281.gif)
   * 로그인된 회원에게는 문의하기 버튼이 제공됩니다. 버튼을 클릭하면 모달 창을 통해 문의사항을 입력하고 등록할 수 있습니다.
@@ -167,7 +167,7 @@
 
     ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/pay.gif)
   * 원하는 일정과 수강인원을 선택하여 클래스를 예약할 수 있습니다.
-  * 로그인이 되어 있지 않은 상태에서 클래스 예약 버튼을 클릭하면, 로그인을 안내하는 경고창이 나타납니다.
+  * 로그인이 되어 있지 않은 상태에서 클래스 예약 버튼을 클릭하면, 로그인을 안내하는 경고창이 나타납니다.<br><br>
 
     ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/paying.gif)
   * 예약 확인(결제) 페이지에서는 선택한 정보를 확인하고 결제를 진행할 수 있습니다.
@@ -200,13 +200,13 @@
 * **관리자페이지**
 
     ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/%ED%81%B4%EB%9E%98%EC%8A%A4%EB%93%B1%EB%A1%9D.gif)
-  * 관리자로 로그인한 후 클래스 검색 페이지로 이동하면 '클래스 등록하기' 버튼이 활성화됩니다. 필요한 정보를 입력하여 새로운 클래스를 등록할 수 있습니다.
+  * 관리자로 로그인한 후 클래스 검색 페이지로 이동하면 '클래스 등록하기' 버튼이 활성화됩니다. 필요한 정보를 입력하여 새로운 클래스를 등록할 수 있습니다.<br><br>
 
     ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396349345-f80404c2-1531-40fc-8e57-7c8e34c18af7.gif)
-  * 클래스 상세 페이지로 이동하면 클래스의 '수정' 및 '삭제' 버튼이 활성화됩니다. '수정' 버튼을 클릭하면 클래스 수정 페이지에서 필요한 정보를 수정할 수 있으며, '삭제' 버튼을 클릭하면 클래스 삭제 경고창이 나타납니다.
+  * 클래스 상세 페이지로 이동하면 클래스의 '수정' 및 '삭제' 버튼이 활성화됩니다. '수정' 버튼을 클릭하면 클래스 수정 페이지에서 필요한 정보를 수정할 수 있으며, '삭제' 버튼을 클릭하면 클래스 삭제 경고창이 나타납니다.<br><br>
 
     ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396363626-e9a7c1da-77fe-49a5-bae5-8596a4e13a45.gif)
-  * 예약 관리 페이지에서는 내 클래스에 예약된 내역을 '승인 예정', '승인 거절', '승인 완료'로 구분하여 확인할 수 있습니다. '승인 예정' 목록에서는 '승인' 또는 '거절' 버튼을 사용해 승인 여부를 선택할 수 있으며, 선택된 내역은 자동으로 해당 목록으로 이동합니다.
+  * 예약 관리 페이지에서는 내 클래스에 예약된 내역을 '승인 예정', '승인 거절', '승인 완료'로 구분하여 확인할 수 있습니다. '승인 예정' 목록에서는 '승인' 또는 '거절' 버튼을 사용해 승인 여부를 선택할 수 있으며, 선택된 내역은 자동으로 해당 목록으로 이동합니다.<br><br>
 
     ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/%EA%B4%80%EB%A6%AC%ED%8E%98%EC%9D%B4%EC%A7%80%EB%AC%B8%EC%9D%98%EB%8B%B5%EB%B3%80.gif)
   * Q&A 관리 페이지에서는 내 클래스에 들어온 문의 내역을 '미답변'과 '답변 완료'로 구분하여 확인할 수 있습니다. '미답변' 목록의 문의 내역에서는 '답변 달기' 버튼을 통해 답변을 등록할 수 있으며, 답변 등록과 동시에 '답변 완료' 목록으로 자동으로 이동합니다.
