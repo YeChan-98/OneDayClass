@@ -65,8 +65,6 @@
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/0cce8ab2-b406-4373-840e-734a9f253f9a" alt="슬라이드15"></td>
-    </tr>
-    <tr>
       <td><img src="https://github.com/user-attachments/assets/10728f08-ac9d-4e3d-b120-b40fb686927c" alt="슬라이드16"></td>
     </tr>
     <tr>
