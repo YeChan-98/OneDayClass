@@ -124,12 +124,27 @@
     ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/login.gif).
 
 * **로그인**
-  * 아이디 또는 비밀번호를 입력하지 않고 로그인 버튼을 클릭하면 미입력된 정보를 입력하라는 메세지가 출력됩니다.
+  * 아이디 또는 비밀번호를 입력하지 않고 로그인 버튼을 클릭할 경우, 미입력된 정보를 입력하라는 메시지가 표시됩니다.
     ![Login]( https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396338413-84282530-06a4-4379-8dd4-acdb723b5d93.gif).
-
+    
+  * 입력한 회원정보와 일치하는 아이디 찾기 및 비밀번호 초기화 기능을 제공합니다.
+    ![Login]( https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396357669-de45ed1c-93f0-4a2f-aebf-d7195f724967.gif).
+    
 * **회원가입**
   * 비밀번호와 비밀번호 확인란의 값이 다를 경우, '비밀번호가 일치하지 않습니다.'라는 경고창이 출력됩니다.
+  * 아이디 중복 체크를 수행하지 않은 경우, '중복 체크가 이루어지지 않았습니다.'라는 경고창이 표시됩니다.
+  * 아이디 중복 체크 버튼 클릭 시, 사용 가능 여부에 따라 '이 아이디는 사용 중입니다.' 또는 '사용 가능한 아이디입니다.'라는 결과창이 출력됩니다.
    ![Login]( https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396337643-7d89fd5e-7263-4454-9eeb-3fa09d4b2c42.gif).
+
+* **클래스 리스트/검색**
+  * 카테고리를 선택하거나 키워드를 입력하여 검색할 수 있으며, 두 가지 방법을 함께 활용할 수도 있습니다.
+    ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/search.gif).
+
+* **클래스 상세페이지**
+  * 있습니다.
+    ![Login](https://github.com/YeChan-98/OneDayClass/raw/refs/heads/main/gif/detail.gif).
+
+
 
 
 ## 개선사항 <a id="chapter6"></a>
