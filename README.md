@@ -145,7 +145,6 @@
 
 * **클래스 상세페이지**
   * 선택된 클래스의 상세 설명과 함께 카카오 지도 API를 사용하여 마커로 장소를 표시하고 있습니다.
-  * 해당 클래스의 리뷰게시판과 QnA게시판을 함께 볼 수 있습니다.
     ![Login](https://github.com/YeChan-98/OneDayClass/raw/refs/heads/main/gif/detail.gif).
 
   * 해당 클래스의 후기(리뷰)게시판과 QnA게시판을 페이징 되어 있는 상태로 볼 수 있습니다.
@@ -170,7 +169,12 @@
   * 회원정보 확인 및 수정하기.
     ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396340134-4f1b0d8c-a9d7-4387-aa0c-96654fa1ba53.gif).
 
+* **예약/리뷰**
+  * 예약/리뷰 페이지에서는 나의 예약 정보를 '예정된 클래스'와 '완료된 클래스'로 구분하여 확인할 수 있습니다. '예정된 클래스'에서는 결제 취소 버튼을 통해 예약을 취소할 수 있으며, '완료된 클래스'에서는 리뷰를 작성하거나 이미 작성한 리뷰를 수정 및 삭제할 수 있습니다.
+    ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396377219-8a2b8829-c8b1-401d-aacf-332d55cc3157.gif).
 
+  * Q&A 페이지에서는 나의 문의 내역을 '미답변'과 '답변 완료'로 구분하여 확인할 수 있습니다.
+    ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396349337-137fb1c1-cabb-4f94-9ec6-cd78500ec6db.gif).
 
 ## 개선사항 <a id="chapter6"></a>
 - 카카오, 네이버 등 소셜 로그인 기능
