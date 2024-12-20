@@ -123,9 +123,13 @@
   * 로그인 및 회원가입 시연.
     ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/login.gif).
 
-  * 로그인.
-    
-   
+* **로그인**
+  * 아이디 또는 비밀번호를 입력하지 않고 로그인 버튼을 클릭하면 미입력된 정보를 입력하라는 메세지가 출력됩니다.
+    ![Login]( https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396338413-84282530-06a4-4379-8dd4-acdb723b5d93.gif).
+
+* **회원가입**
+  * 비밀번호와 비밀번호 확인란의 값이 다를 경우, '비밀번호가 일치하지 않습니다.'라는 경고창이 출력됩니다.
+   ![Login]( https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396337643-7d89fd5e-7263-4454-9eeb-3fa09d4b2c42.gif).
 
 
 ## 개선사항 <a id="chapter6"></a>
