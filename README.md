@@ -132,7 +132,7 @@
 
     ![Login]( https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396338413-84282530-06a4-4379-8dd4-acdb723b5d93.gif)
   * 아이디 또는 비밀번호를 입력하지 않고 로그인 버튼을 클릭할 경우, 미입력된 정보를 입력하라는 메시지가 표시됩니다. <br><br>
-
+* ****
     ![Login]( https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396357669-de45ed1c-93f0-4a2f-aebf-d7195f724967.gif)
   * 입력한 회원정보와 일치하는 아이디 찾기 및 비밀번호 초기화 기능을 제공합니다.
 
