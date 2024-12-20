@@ -141,9 +141,26 @@
     ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/search.gif).
 
 * **클래스 상세페이지**
-  * 있습니다.
+  * 선택된 클래스의 상세 설명과 함께 카카오 지도 API를 사용하여 마커로 장소를 표시하고 있습니다.
+  * 해당 클래스의 리뷰게시판과 QnA게시판을 함께 볼 수 있습니다.
     ![Login](https://github.com/YeChan-98/OneDayClass/raw/refs/heads/main/gif/detail.gif).
 
+  * 해당 클래스의 후기(리뷰)게시판과 QnA게시판을 페이징 되어 있는 상태로 볼 수 있습니다.
+    ![Login](https://github.com/YeChan-98/OneDayClass/raw/refs/heads/main/gif/396392615-0b007571-cbd0-4a4e-8439-7e574d5fee5e.gif).
+  * 로그인된 회원에게는 문의하기 버튼이 제공됩니다. 버튼을 클릭하면 모달 창을 통해 문의사항을 입력하고 등록할 수 있습니다.
+    ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/396324405-b0bec65c-ec81-483e-af78-fe328da01281.gif).
+
+* **클래스 예약**
+  * 원하는 일정과 수강인원을 선택하여 클래스를 예약할 수 있습니다.
+  * 로그인이 되어 있지 않은 상태에서 클래스 예약 버튼을 클릭하면, 로그인을 안내하는 경고창이 나타납니다.
+    ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/pay.gif).
+
+  * 예약 확인(결제) 페이지에서는 선택한 정보를 확인하고 결제를 진행할 수 있습니다.
+    ![Login](https://media.githubusercontent.com/media/YeChan-98/OneDayClass/refs/heads/main/gif/paying.gif).
+
+* **마이페이지**
+  * 표시됩니다.
+    ![Login]( ).
 
 
 
